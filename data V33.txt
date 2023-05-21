@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Psychological horror is a genre that has captivated audiences for decades, instilling fear and unease through its exploration of the human mind and its darkest corners. ","photo2":"https://iili.io/Hgw4wSn.jpg"},
+  {"desc3":"Within this realm, there exists a name that has become synonymous with spine-tingling terror and captivating storytelling","photo3":"https://iili.io/Hgw4kNf.png"},
+  {"desc4":"Amanda Horrror. Known for her unique approach to the genre, Horrror has established herself as a master of psychological horror,","photo4":"https://iili.io/Hgw4jcX.jpg"},
+  {"desc5":"weaving intricate narratives that delve into the deepest recesses of human psyche.","photo5":"https://iili.io/Hgw4O9s.jpg"},
+  {"descd":"This article aims to explore the works of Amanda Horrror, examining her distinctive style, recurring themes, and the impact she has made on the genre.","photod":"https://iili.io/Hgw4eAG.jpg"}
    ]
  
 }
