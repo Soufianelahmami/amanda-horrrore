@@ -4,7 +4,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
+"unity_gameid":"5302409",
  
 
 "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
@@ -37,10 +37,10 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
